@@ -5,7 +5,7 @@
  */
 
 body {
-  background-image: url(../images/cat.jpeg) no-repeat center center fixed;
+  background: url('https://chickensmitten.github.io/catjira-corporate/images/cat.jpeg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
