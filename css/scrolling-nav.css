@@ -38,42 +38,36 @@ section {
   content:url(../images/saatchi.jpg);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 .lb {
   content:url(../images/lb.png);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 .samsung {
   content:url(../images/samsung.png);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 .taylors {
   content:url(../images/taylors.jpg);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 .mini {
   content:url(../images/mini.png);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 .livewell {
   content:url(../images/livewell.png);
   max-width:100%; 
   padding:50px;
-  background-size: cover;
 }
 
 
