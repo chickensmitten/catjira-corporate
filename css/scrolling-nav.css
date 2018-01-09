@@ -80,37 +80,37 @@ section {
 
 
 
-.saatchi: after {
+.saatchi:: after {
   content:url(../images/saatchi.jpg);
   max-width:100%; 
   padding:50px;
 }
 
-.lb: after {
+.lb:: after {
   content:url(../images/lb.png);
   max-width:100%; 
   padding:50px;
 }
 
-.samsung: after {
+.samsung:: after {
   content:url(../images/samsung.png);
   max-width:100%; 
   padding:50px;
 }
 
-.taylors: after {
+.taylors:: after {
   content:url(../images/taylors.jpg);
   max-width:100%; 
   padding:50px;
 }
 
-.mini: after {
+.mini:: after {
   content:url(../images/mini.png);
   max-width:100%; 
   padding:50px;
 }
 
-.livewell: after {
+.livewell:: after {
   content:url(../images/livewell.png);
   max-width:100%; 
   padding:50px;
@@ -126,37 +126,37 @@ section {
 
 
 
-.saatchi: before {
+.saatchi:: before {
   content:url(../images/saatchi.jpg);
   max-width:100%; 
   padding:50px;
 }
 
-.lb: before {
+.lb:: before {
   content:url(../images/lb.png);
   max-width:100%; 
   padding:50px;
 }
 
-.samsung: before {
+.samsung:: before {
   content:url(../images/samsung.png);
   max-width:100%; 
   padding:50px;
 }
 
-.taylors: before {
+.taylors:: before {
   content:url(../images/taylors.jpg);
   max-width:100%; 
   padding:50px;
 }
 
-.mini: before {
+.mini:: before {
   content:url(../images/mini.png);
   max-width:100%; 
   padding:50px;
 }
 
-.livewell: before {
+.livewell:: before {
   content:url(../images/livewell.png);
   max-width:100%; 
   padding:50px;
