@@ -1,6 +1,2 @@
-
-baseurl: ""
-url: "http://catjira.com"
-
-# baseurl: "/catjira-corporate"
-# url: "https://chickensmitten.github.io"
+baseurl: "/catjira-corporate"
+url: "https://chickensmitten.github.io"
